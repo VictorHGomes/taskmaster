@@ -47,9 +47,9 @@
 
 ## 🧑‍💻 Autor
 
-- Nome: *Seu Nome Aqui*
-- LinkedIn: [SeuPerfil](https://linkedin.com/in/seuperfil)
-- GitHub: [@seuusuario](https://github.com/seuusuario)
+- Nome: Victor Hugo Gomes Couto
+- LinkedIn: https://www.linkedin.com/in/victor-couto-07a467305/
+- GitHub: https://github.com/VictorHGomes
 
 ---
 
